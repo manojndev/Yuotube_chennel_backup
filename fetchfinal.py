@@ -1,3 +1,9 @@
+
+
+#https://commentpicker.com/youtube-channel-id.php
+#get channelid from herre and replace firt two characters with  to uu  
+
+
 import requests
 import json
 import aiosqlite
